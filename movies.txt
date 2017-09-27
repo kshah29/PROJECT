@@ -1,0 +1,36 @@
+Jodhaa Akbar;Drama, Action;3.85 2008Hritik Roshan, Aishwarya Rai
+Sultan;Drama, Sports;4.1 2016Salman Khan, Anushka Sharma
+Dear Zindagi;Drama, Romance;4 2016Shah Rukh Khan, Alia Bhatt
+Chak De! India;Sports;4.5 2007Shah Rukh Khan
+Jab We Met;Comedy, Drama;4 2007Shahid Kapoor, Kareena Kapoor
+Taare Zameen Par;Drama, Music;4.25 2007Aamir Khan, Darsheel Safary
+Rock On!!;Drama, Music;3.95 2008Farhan Akhtar, Arjun Rampal, Prachi Desai
+C Kkompany;Comedy, Music;2.25 2008Anupam Kher, Tusshar Kapoor, Rajpal Yadav
+Roadside Romeo;Romance, Comedy;2.65 2008Saif Ali Khan
+3 Idiots;Drama, Bollywood;4.5 2009Aamir Khan, Kareena Kapoor
+Love Aaj Kal;Comedy, Drama, Music;3.4 2009Saif Ali Khan, Deepika Padukone
+Paa;Drama, Bollywood;3.5 2009Amitabh Bachchan, Abhishek Bachchan, Vidya Balan
+Billu;Comedy, Drama, Music;3.05 2009Irrfan Khan, Lara Dutta, Shah Rukh Khan
+Shortkut;Comedy, Drama, Music;1.65 2009Amrita Rao, Arshad Warsi
+Raajneeti;Thriller;4 2010Katrina Kaif, Ranbir Kapoor, Ajay Devgan
+Dabangg;Thriller, Comedy, Drama;3.15 2010Salman Khan, Sonakshi Sinha
+I Hate Luv Storys;Bollywood, Comedy, Music;3 2010Imran Khan, Sonam Kapoor
+Kites;Drama, Thriller;2.25 2010Hrithik Roshan, Bárbara Mori
+Zindagi Na Milegi Dobara;Drama, Romance;4.05 2011Hrithik Roshan, Farhan Akhtar, Abhay Deol, Katrina Kaif
+Rockstar;Bollywood, Romance;3.8 2011Nargis Fakhri, Ranbir Kapoor
+Thank You;Drama, Romance;2.3 2011Akshay Kumar, Sonam Kapoor
+Chillar Party;Comedy, Drama;3.5 2011Naman Jain, Rohan Grover 
+Ek Tha Tiger;Bollywood, Thriller;3 2012Katrina Kaif, Salman Khan 
+Kahaani;Bollywood, Thriller;4.1 2012Vidya Balan
+Jab Tak Hai Jaan;Bollywood, Drama;3.5 2012Anushka Sharma, Shah Rukh Khan, Katrina Kaif
+Chennai Express;Action, Romance;4 2013Shah Rukh Khan, Deepika Padukone
+Special 26;Bollywood, Thriller;3.5 2013Akshay Kumar, Kajal Aggarwal, Manoj Bajpayee, Anupam Kher
+Sixteen;Drama, Bollywood;3.15 2013Izabelle Liete, Mehak Manwani, Wamiqa Gabbi
+2 States;Drama, Bollywood;3.8 2014Alia Bhatt, Arjun Kapoor
+PK;Fantasy, Science fiction;4.5 2014Anushka Sharma, Aamir Khan
+Highway;Drama, Romance;3.8 2014Randeep Hooda, Alia Bhatt
+Piku;Drama, Bollywood;4.2 2015Deepika Padukone, Amitabh Bachchan, Irrfan Khan
+Baahubali;Fantasy, Drama;4.2 2015Prabhas, Tamannaah
+Alone;Thriller, Romance;1.85 2015Bipasha Basu, Karan Singh Grover
+Befikre;Crime, Drama;2 2016Ranveer Singh, Vaani Kapoor
+Pink;Drama, Thriller;4.25 2016Amitabh Bachchan, Taapsee Pannu
